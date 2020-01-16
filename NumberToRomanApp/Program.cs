@@ -6,7 +6,7 @@ namespace NumberToRomanApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Number to Roman parser!");
             
             var result = NumbertoRomanParser.NumberToRoman(500);
 
