@@ -36,3 +36,7 @@ romanNumber = tenSeries[(int)(7777 / 10) % 10] = tenSeries[7] = "LXX"<br/>
 romanNumber = onesSeries[7777 % 10] = onesSeries[7] = "VII"<br/>
 Concate this result = "VMMDCCLXXVII"<br/>
 So, 7777 = "VMMDCCLXXVII"<br/>
+
+
+<br/><br/>
+You can also run the test code under NumberToRomanTest.cs class
